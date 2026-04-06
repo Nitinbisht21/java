@@ -1,4 +1,4 @@
-public class over{
+public class funoverloading {
     void one(int a){
         System.out.println(a);
     }

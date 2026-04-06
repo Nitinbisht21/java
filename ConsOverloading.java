@@ -1,4 +1,4 @@
-class Demo{
+class ConstOverloading {
     Demo(){
         System.out.println("Default Constructor");
     }
@@ -11,7 +11,7 @@ class Demo{
     public static void main(String []args){
         Demo obj = new Demo();
         Demo obj2 = new Demo(10);
-        Demo obj = new Demo(10,20);
+        Demo obj1 = new Demo(10,20);
        
     }
 }

@@ -1,4 +1,4 @@
-public class Throwexceptionexample{
+public class UserDefException {
     static void checkAge(int age){
         if (age<18){
         throw new ArithmeticException("Access denied -- your age is not satisfied ");

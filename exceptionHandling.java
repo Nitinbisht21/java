@@ -1,5 +1,5 @@
 import java.util.*;
-public class tc{
+public class exceptionHandling {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter two numbwer");
